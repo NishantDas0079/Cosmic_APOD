@@ -35,13 +35,13 @@ Follow these steps to run the app on your own machine.
 - Git
 - A NASA API key (get one for free at [api.nasa.gov](https://api.nasa.gov))
 
-### Steps
+# Steps
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/NishantDas0079/Cosmic_APOD.git
-   cd Cosmic_APOD
-   ```
+# 1. Clone the repository
+```bash
+git clone https://github.com/NishantDas0079/Cosmic_APOD.git
+cd Cosmic_APOD
+```
 
 # 2. Create and activate a virtual environment
 ```bash
